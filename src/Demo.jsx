@@ -3,8 +3,7 @@
 const Demo = () => {
     return (
         <div>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Exercitationem maxime labore rerum, delectus inventore distinctio autem aliquid voluptatibus nisi soluta vero a,\
-             impedit praesentium doloribus neque perferendis. Voluptates, nisi voluptate.
+            Lorem ipsum dolor sit  eveniet minus cumque blanditiis et! Accusantium, expedita.
         </div>
     );
 };
