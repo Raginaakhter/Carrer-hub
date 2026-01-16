@@ -7,6 +7,7 @@ const Demo = () => {
                 optio? Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis temporibus eaque commodi natus est aperiam iure, amet deserunt corporis. Fugit accusantium debitis modi odio asperiores at quia quaerat commodi mollitia.
                  accusantium iste perferre. Voluptatum!</p>
         <button className="bg-black text-white">Click that</button>
+        <button></button>
         </div>
     );
 };
