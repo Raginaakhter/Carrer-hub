@@ -3,8 +3,8 @@
 const Demo = () => {
     return (
         <div>
-            <p className="bg-blue-800">Lorem ing elit. est eos, vero nihil amet aliquid doloremque eligendi illo
-                 accusantium iste perferendis maxime labore. Voluptatum!</p>
+            <p className="bg-blue-800">Lorem ing elit. liquid doloremque eligendi illo
+                 accusantium iste perferre. Voluptatum!</p>
         <button className="bg-black text-white">Click this</button>
         </div>
     );
