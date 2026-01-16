@@ -5,7 +5,7 @@ const Demo = () => {
         <div>
             <p className="bg-blue-800">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aut nemo sint ut quidem sunt, est eos, vero nihil amet aliquid doloremque eligendi illo
                  accusantium iste perferendis maxime architecto labore. Voluptatum!</p>
-        <button>Click here</button>
+        <button className="bg-black text-white">Click here</button>
         </div>
     );
 };
