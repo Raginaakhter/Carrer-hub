@@ -3,7 +3,7 @@
 const Demo = () => {
     return (
         <div>
-            Lorem ipsum   eveniet minus cumque blanditiis et! Accusantium,
+            Lorem ipsum  
         </div>
     );
 };
